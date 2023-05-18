@@ -1,0 +1,53 @@
+.box-gioithieu {
+    width: 100%;
+  }
+  .tieude h3 {
+    color: #3e449c;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+  }
+  .tieude h1 {
+    color: #3e449c;
+    font-family: "Helvetica", Sans-serif;
+    font-size: 45px;
+    font-weight: 800;
+  }
+  .gioithieu-box,
+  .sub-boxgioithieu {
+    margin-top: 100px;
+  }
+  .title-content {
+    border-left: 2px solid;
+    color: #000000;
+    font-family: "Helvetica", Sans-serif;
+    font-weight: 600;
+    padding: 10px;
+  }
+  .nd-content {
+    margin-top: 25px;
+    text-align: justify;
+    font-family: "Helvetica", Sans-serif;
+    font-weight: 400;
+  }
+  .submit-button button {
+    margin-top: 40px;
+    font-family: "Helvetica", Sans-serif;
+    font-weight: 700;
+    background-color: #3e449c;
+  }
+  .submit-button a {
+    color: white;
+    text-decoration: none;
+  }
+  .img-box img {
+    opacity: 0.7;
+    filter: brightness(100%) contrast(100%) saturate(0%) blur(0px)
+      hue-rotate(0deg);
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+  }
+  .img-box img:hover {
+    opacity: 1;
+    filter: brightness(100%) contrast(100%) saturate(100%) blur(0px)
+      hue-rotate(0deg);
+  }
